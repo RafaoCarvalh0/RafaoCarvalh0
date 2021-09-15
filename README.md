@@ -10,6 +10,6 @@
 <br/>Assim como a maioria, estou sempre buscando melhorar minhas habilidades "programísticas", então estou disposto a ajudar e colaborar em projetos caso eu tenha disponibilidade.
 
 <br/>Contatos para trocar uma ideia (ou fazer propostas interessantes :upside_down_face:): 
-<br/>![Linkedin Badge](https://img.shields.io/badge/-RafaelCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilas-boas-de-carvalho-61a517187/) 
+<br/>[![Linkedin Badge](https://img.shields.io/badge/-RafaelCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilas-boas-de-carvalho-61a517187/)](https://www.linkedin.com/in/rafael-vilas-boas-de-carvalho-61a517187/)
 &nbsp; 
 [![Gmail Badge](https://img.shields.io/badge/-az.carta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:az.carta@gmail.com)](mailto:az.carta@gmail.com)
