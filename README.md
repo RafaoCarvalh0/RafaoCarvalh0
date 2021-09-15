@@ -3,8 +3,7 @@
 #### Meu nome é Rafael Carvalho. 
 
 #### Atualmente moro em Monte Alto(SP)  
-#### Sou movido a café e heavy metal... muito heavy metal :skull:... e café :coffee: 
-<img align="right" src="https://i.kym-cdn.com/photos/images/original/000/476/072/9f5.gif" width="40%" height="40%" style="max-width:100%;">
+#### Sou movido a café e heavy metal... muito heavy metal :skull:... e café :coffee: <img align="right" src="https://i.kym-cdn.com/photos/images/original/000/476/072/9f5.gif" width="40%" height="40%" style="max-width:100%;">
 ***
 
 <br/>Atualmente focado em Node.js, porém estou seguindo um longo caminho para me especializar como desenvolvedor backend. Gosto de desenvolver projetos pessoais junto aos meus outros amigos programadores, e gosto bastante de mexer com banco de dados.
