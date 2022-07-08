@@ -6,7 +6,7 @@
 #### Sou movido a café e heavy metal... muito heavy metal :skull:... e café :coffee: 
 ***
 
-<br/>Atualmente focado em Elixir, porém estou seguindo um longo caminho para me especializar como desenvolvedor backend. Gosto de desenvolver projetos pessoais junto aos meus outros amigos programadores, e gosto bastante de mexer com banco de dados.
+<br/>Atualmente focado em Elixir e estou seguindo um longo caminho para me especializar como desenvolvedor backend. Gosto de desenvolver projetos pessoais, sozinho ou junto de meus amigos backenders/frontenders/algumascoisaender.
 <br/>Assim como a maioria, estou sempre buscando melhorar minhas habilidades "programísticas", então estou disposto a ajudar e colaborar em projetos caso eu tenha disponibilidade.
 
 <br/>Contatos para trocar uma ideia (ou fazer propostas interessantes :upside_down_face:): 
