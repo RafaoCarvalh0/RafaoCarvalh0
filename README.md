@@ -1,6 +1,6 @@
 # Hello There. :beers:
 
-#### My name is Rafael Carvalho. <img align="right" src="https://i.kym-cdn.com/photos/images/original/000/476/072/9f5.gif" width="40%" height="40%" style="max-width:100%;">
+#### My name is Rafael Carvalho. <img align="right" src="https://i.kym-cdn.com/photos/images/original/000/476/072/9f5.gif" width="40%" style="max-width:100%;">
 
 #### I currently live in Monte Alto (SP), Brazil  
 #### I'm fueled by coffee and heavy metal... lots of heavy metal :skull:... and coffee :coffee:  
