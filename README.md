@@ -13,6 +13,7 @@ I appreciate working on personal projects — whether solo or with friends from 
 <p/>
 So, feel free to reach out for a chat (or interesting proposals :upside_down_face:):  
 <p/>
+  
 [![Linkedin Badge](https://img.shields.io/badge/-RafaelCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilas-boas-de-carvalho-61a517187/)](https://www.linkedin.com/in/rafael-vilas-boas-de-carvalho-61a517187/)
 &nbsp;  
 [![Gmail Badge](https://img.shields.io/badge/-az.carta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:az.carta@gmail.com)](mailto:az.carta@gmail)
