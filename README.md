@@ -8,9 +8,10 @@
 Elixir has been my go-to language for most projects — I have 3+ years of professional and casual experience with it.
 Recently, however, Go has been proving itself a strong contender for the top spot. I’ve paused my Elixir studies to dive into Go, exploring its ecosystem through hands-on projects and focused learning.
 Most importantly, I’m genuinely enjoying the process.
-<p/>
-<br/>I enjoy working on personal projects — whether solo or with friends from different tech backgrounds — and I'm always looking for ways to improve as a developer. Whenever possible, I like to collaborate on meaningful or fun projects.
-<br/>So, feel free to reach out for a chat (or interesting proposals :upside_down_face:):  
-<br/>[![Linkedin Badge](https://img.shields.io/badge/-RafaelCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilas-boas-de-carvalho-61a517187/)](https://www.linkedin.com/in/rafael-vilas-boas-de-carvalho-61a517187/)
+<br/>
+I enjoy working on personal projects — whether solo or with friends from different tech backgrounds — and I'm always looking for ways to improve as a developer. Whenever possible, I like to collaborate on meaningful or fun projects.
+So, feel free to reach out for a chat (or interesting proposals :upside_down_face:):  
+<br/>
+[![Linkedin Badge](https://img.shields.io/badge/-RafaelCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilas-boas-de-carvalho-61a517187/)](https://www.linkedin.com/in/rafael-vilas-boas-de-carvalho-61a517187/)
 &nbsp;  
 [![Gmail Badge](https://img.shields.io/badge/-az.carta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:az.carta@gmail.com)](mailto:az.carta@gmail)
