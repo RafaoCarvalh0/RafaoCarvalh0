@@ -6,8 +6,9 @@
 #### I'm fueled by coffee and heavy metal... lots of heavy metal :skull:... and coffee :coffee:  
 ***
 
-<br/>Currently focused on Elixir and on a long journey to specialize as a backend developer. I enjoy working on personal projects, either solo or with my backender/frontender/someender friends.  
-<br/>Like most people, I’m always looking to improve my programming skills, so I’m open to help and collaborate on projects when I have availability.
+<br/>Currently focused on learning Go. I'm diving into the language and exploring its ecosystem through hands-on projects and study.
+<br/>I have 3+ years of professional experience with Elixir, working on real-world systems.
+<br/>I enjoy working on personal projects — whether solo or with friends from different tech backgrounds — and I'm always looking for ways to improve as a developer. Whenever possible, I like to collaborate on meaningful or fun projects.
 
 <br/>Feel free to reach out for a chat (or interesting proposals :upside_down_face:):  
 <br/>[![Linkedin Badge](https://img.shields.io/badge/-RafaelCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilas-boas-de-carvalho-61a517187/)](https://www.linkedin.com/in/rafael-vilas-boas-de-carvalho-61a517187/)
