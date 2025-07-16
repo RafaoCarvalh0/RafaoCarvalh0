@@ -10,6 +10,7 @@ Recently, however, Go has been proving itself a strong contender for the top spo
 Most importantly, I’m genuinely enjoying the process.
 <p/>
 I appreciate working on personal projects — whether solo or with friends from different tech backgrounds — and I'm always looking for ways to improve as a developer. Whenever possible, I like to collaborate on meaningful or just fun and casual projects.
+<p/>
 So, feel free to reach out for a chat (or interesting proposals :upside_down_face:):  
 <p/>
 [![Linkedin Badge](https://img.shields.io/badge/-RafaelCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilas-boas-de-carvalho-61a517187/)](https://www.linkedin.com/in/rafael-vilas-boas-de-carvalho-61a517187/)
